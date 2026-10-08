@@ -1,5 +1,5 @@
+
  package Day5OOPS;
- 
  class Car {
 
     String color;
