@@ -47,7 +47,7 @@ public class Constructor2 {
                 new StudentProfile("Pooja", 101, 82.5);
 
         StudentProfile student2 =
-                new StudentProfile("Rahul", 102);
+                new StudentProfile("Harshada", 102);
 
         student1.displayReport();
         student2.displayReport();
