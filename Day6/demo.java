@@ -1,15 +1,30 @@
 package Day6;
 
-class Emp{
-    double salary = 300000;
-    
+/*class BankAcc{
+    String accountHolder;
+
+    BankAcc (String accountHolder){
+    this.accountHolder = accountHolder;
     }
 
-class Manager extends Emp{
-    double salary = 600000;
+    void displayDetails(){
+        System.out.println("AccountHolder" + accountHolder);
+    }
 
-    void displaySalary(){
-        System.out.println("Manager Salary " +salary );
-        System.out.println("Employee Salary" + super.salary );
+}
+
+class SavingAcc extends BankAcc{
+    double interestrate = 4.5;
+
+    SavingAcc(String AccountHolder){
+        super(AccountHolder);
+    }
+    @Override 
+    void displayDetails(){
+        System.out.println("Interest Rate " + interestrate + "%");
     }
 }
+    */
+
+
+//Problem statement 
