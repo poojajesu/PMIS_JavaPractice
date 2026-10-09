@@ -22,6 +22,9 @@ public class SingleInherit {
         myCat.eat();
         myCat.meow();
 
+        Dog myDog = new Dog();
+        myDog.bark();
+
 
     }
     
